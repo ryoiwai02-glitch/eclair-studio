@@ -102,4 +102,6 @@ If you want a repo-specific version of this checklist, the paid Mini-Audit deliv
 - Agent-ready issue/request templates
 - Completion-report template
 
-Do not send secrets, production credentials, customer data, or unreleased proprietary material.
+V1 is public-repository-only. Do not send secrets, API keys, passwords, production credentials, customer data, private identity documents, private repositories, private ZIPs, or unreleased proprietary material.
+
+If sensitive information was sent by mistake, rotate or revoke active secrets on your side and resend only the public repository URL and non-sensitive context.
