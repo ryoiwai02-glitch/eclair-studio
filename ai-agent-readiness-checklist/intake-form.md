@@ -4,6 +4,8 @@ Use this form before starting an AI Agent Readiness Mini-Audit.
 
 V1 scope: public repositories only. Do not send private repositories, private ZIPs, credentials, customer data, or secrets.
 
+Contact: ryoiwai02+audit@gmail.com
+
 ## Project Access
 
 1. Public repository URL:
