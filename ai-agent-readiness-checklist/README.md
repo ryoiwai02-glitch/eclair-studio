@@ -6,6 +6,8 @@ Works with workflows around Codex, Cursor, Claude Code, GitHub Copilot coding ag
 
 This is an independent resource. It is not affiliated with or endorsed by OpenAI, Anthropic, Cursor, GitHub, or any other tool vendor.
 
+Contact: ryoiwai02+audit@gmail.com
+
 ## Why This Exists
 
 AI coding agents are more useful when the repository gives them clear context, commands, boundaries, and verification paths.
