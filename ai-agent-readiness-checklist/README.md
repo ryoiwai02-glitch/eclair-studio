@@ -95,7 +95,7 @@ Report back with:
 
 ## Mini-Audit
 
-If you want a repo-specific version of this checklist, the paid Mini-Audit delivers:
+If you want a repo-specific version of this checklist, the Mini-Audit delivers:
 
 - Readiness score
 - Top blockers
@@ -104,12 +104,18 @@ If you want a repo-specific version of this checklist, the paid Mini-Audit deliv
 - Agent-ready issue/request templates
 - Completion-report template
 
-To request a Mini-Audit before the payment page is live, email `ryoiwai02+audit@gmail.com` with:
+Test operation: the first 3 public repositories are free.
+
+This is a lightweight review, not feature implementation or production debugging.
+
+To request a free test Mini-Audit, email `ryoiwai02+audit@gmail.com` with:
 
 - Subject: `AI Agent Readiness Mini-Audit`
 - Public repository URL
 - One example task you want to hand off to an AI coding agent
 - Current pain point, if any
+
+Feedback is appreciated because this service is still being refined.
 
 V1 is public-repository-only. Do not send secrets, API keys, passwords, production credentials, customer data, private identity documents, private repositories, private ZIPs, or unreleased proprietary material.
 
