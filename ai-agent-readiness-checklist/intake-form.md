@@ -2,12 +2,13 @@
 
 Use this form before starting an AI Agent Readiness Mini-Audit.
 
+V1 scope: public repositories only. Do not send private repositories, private ZIPs, credentials, customer data, or secrets.
+
 ## Project Access
 
-1. Repository URL or ZIP link:
-2. Is the repository public or private?
-3. If private, confirm that secrets, credentials, customer data, and unreleased proprietary text have been removed:
-4. Main branch name:
+1. Public repository URL:
+2. Main branch name:
+3. Confirm you are not sending secrets, credentials, customer data, private identity documents, or confidential files:
 
 ## Project Context
 
@@ -37,3 +38,7 @@ Use this form before starting an AI Agent Readiness Mini-Audit.
 1. Preferred delivery format:
 2. Do you want a patch/diff when feasible?
 3. Anything else the reviewer should know?
+
+## If Sensitive Information Was Sent
+
+If you sent sensitive information by mistake, do not repeat it in follow-up messages. Rotate or revoke active secrets on your side, then resend only the public repository URL and non-sensitive audit context.
